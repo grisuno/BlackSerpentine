@@ -1,5 +1,5 @@
 # BlackSerpentine
-BlackSerpentine
+BlackSerpentine a lightweight, nano beacon or implant for the LazyOwn RedTeam Framework C2
 
 
 ## 🔗 Links (Because Sharing Is Power)
