@@ -1,13 +1,13 @@
 # Subsystem: root
 
 ## app.py
-- Doc: Autor: Gris Iscomeback Correo electrónico: grisiscomeback[at]gmail[dot]com Fecha de creación...
 - Layer: utility
+- Doc: app.py  Autor: Gris Iscomeback Correo electrónico: grisiscomeback[at]gmail[dot]com Fecha de creación: xx/xx/xxxx Licenci
 - Language: py
 
 ## beacon.py
-- Doc: Pure-Python ELF-ET_REL loader para BOFs tipo Cobalt-Strike x86-64, System-V relocations.
 - Layer: utility
+- Doc: Pure-Python ELF-ET_REL loader para BOFs tipo Cobalt-Strike x86-64, System-V relocations. Replica fielmente el comportami
 - Language: py
 - Symbols:
   - `aes_cfb_decrypt` (function, line 87) `def aes_cfb_decrypt(data_b64)`
@@ -40,8 +40,8 @@
 - Language: sh
 
 ## lazyown_minimal_c2.py
-- Doc: LazyOwn C2 solo beacon (compatible con beacons anteriores) argv: <puerto> <usuario> <contraseña>
 - Layer: presentation
+- Doc: LazyOwn C2 solo beacon (compatible con beacons anteriores) argv: <puerto> <usuario> <contraseña>
 - Language: py
 - Symbols:
   - `encrypt_data` (function, line 22) `def encrypt_data(data)`
